@@ -1,0 +1,26 @@
+.card {
+  margin: auto;
+  margin-top: 2.5rem;
+  padding: 0.625rem;
+  list-style: none;
+}
+
+.cardDataList {
+  padding: 1rem;
+  height: 2rem;
+  margin-top: 0;
+  color: #fff;
+  border-bottom: 1px dotted #ececec;
+}
+
+.cardData {
+  margin-bottom: 0.625rem;
+}
+
+.cardDataList p {
+  font-size: 0.7rem;
+}
+
+.cardDataList:hover {
+  cursor: pointer;
+}

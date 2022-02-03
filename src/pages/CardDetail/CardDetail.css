@@ -1,0 +1,29 @@
+.cardDetail {
+  margin-top: 2.5rem;
+  padding: 1rem;
+}
+
+.cardDetailList {
+  background-color: #1686b0;
+  padding: 1rem;
+  list-style: none;
+  color: #fff;
+}
+
+.cardDetailList > p {
+  font-size: 0.7rem;
+}
+
+.cardDetailCriteria {
+  margin: 0.7rem 0.7rem;
+  list-style: none;
+  color: #fff;
+}
+
+.cardDetailCriteriaText {
+  padding-top: 0.7rem;
+}
+
+.cardDetailCriteria:hover {
+  cursor: pointer;
+}
